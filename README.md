@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## Hey there! 👋 <img align="right" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="200" />
 
-- :panda_face: I am Shashwat, 3rd year EEE undergrad
-- :octocat:Working in Deep learning and hardware, believes in Python based Robotics
+- :panda_face: I am Vinay, ECE graduate.
+- :octocat:Working in Deep learning and Computer Vision, believes in Python based Robotics
 - :car:Trying to extend my domain towards crafting mapping algorithms and increasing Autonomy in Robots :robot:! 
 
 <details>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - :robot: Hit me up collaborate on projects based on ROS (Robotics OS)
 - ⚡ Fun fact: I am learning German!
 
-![What Github stats](https://github-readme-stats.vercel.app/api?username=shaxpy&show_icons=true&hide_border=true)
+![What Github stats](https://github-readme-stats.vercel.app/api?username=vermavinay982&show_icons=true&hide_border=true)
 
 ### Contact me at: <br>
 <a href="https://www.linkedin.com/in/vinayverma982/">
