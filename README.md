@@ -31,11 +31,11 @@ Here are some ideas to get you started:
   <img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="300" />
 </p>
 
-- :zap: Computer Vision intern at UVRobots
+- :zap: Computer Vision Engineer at Startup
 - 🔭 Researching on Robotics and Self Driving Systems
 - :electric_plug: Engaged in improving Assistive Technology for the needy
 - :robot: Hit me up collaborate on projects based on ROS (Robotics OS)
-- ⚡ Fun fact: I am learning German!
+- ⚡ Fun fact: I am learning React!
 
 ![What Github stats](https://github-readme-stats.vercel.app/api?username=vermavinay982&show_icons=true&hide_border=true)
 
