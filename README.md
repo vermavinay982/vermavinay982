@@ -1,6 +1,6 @@
 ## Hey there! 👋 
 
-<img align="left" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="220" />
+<img align="left" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="210" />
 
 - 🔭 I’m currently working on LSTM
 - 🌱 I’m currently learning DL with Pytorch 
