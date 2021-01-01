@@ -2,14 +2,14 @@
 
 <img align="left" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="210" />
 
-- 🔭 I’m currently working on LSTM
-- 🌱 I’m currently learning DL with Pytorch 
-- 👯 I’m looking to collaborate on Detectors and Tracker
-- 🤔 I’m looking for help with DL in Pytorch 
-- 💬 Ask me about Tracker, Facial Recognition
-- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/vinayverma982/) | [Gmail](mailto:vermavinay982@gmail.com)
-- 😄 Pronouns: Apple FanBoy, Geek, Guitar Enthusiast
-- ⚡ Fun fact: I am learning React! (part time 😄)
+    - 🔭 I’m currently working on LSTM
+    - 🌱 I’m currently learning DL with Pytorch 
+    - 👯 I’m looking to collaborate on Detectors and Tracker
+    - 🤔 I’m looking for help with DL in Pytorch 
+    - 💬 Ask me about Tracker, Facial Recognition
+    - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/vinayverma982/) | [Gmail](mailto:vermavinay982@gmail.com)
+    - 😄 Pronouns: Apple FanBoy, Geek, Guitar Enthusiast
+    - ⚡ Fun fact: I am learning React! (part time 😄)
 
 # Also
 
