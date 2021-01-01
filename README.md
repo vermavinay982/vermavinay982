@@ -1,6 +1,6 @@
 ## Hey there! 👋 
 
-<img align="left" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="200" />
+<img align="left" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="220" />
 
 - 🔭 I’m currently working on LSTM
 - 🌱 I’m currently learning DL with Pytorch 
@@ -13,15 +13,20 @@
 
 # Also
 
-- :panda_face: I am Vinay, ECE graduate.
-- :octocat:Working in Deep learning and Computer Vision, believes in Python based Robotics
 
 <p >
   <img align="right" src="https://media.giphy.com/media/AiPPsVtxUnwti/giphy.gif" width="300" />
 </p>
 
+- :panda_face: I am Vinay, ECE graduate.
+- :octocat:Working in Deep learning and Computer Vision, believes in Python based Robotics
 - :zap: Computer Vision Engineer at Wobot.ai
 - :electric_plug: Engaged in improving Assistive Technology for the needy
 - :robot: Hit me up collaborate on projects based on Computer Vision (Python)
+
+<br>
+<br>
+<br>
+
 
 ![What Github stats](https://github-readme-stats.vercel.app/api?username=vermavinay982&show_icons=true&hide_border=true)
