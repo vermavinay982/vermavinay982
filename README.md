@@ -14,7 +14,7 @@
 # Also
 
 
-<p >
+<p>
   <img align="right" src="https://media.giphy.com/media/AiPPsVtxUnwti/giphy.gif" width="300" />
 </p>
 
@@ -28,5 +28,5 @@
 <br>
 <br>
 
+![What Github stats](https://github-readme-stats.vercel.app/api?username=vermavinay982&show_icons=true&hide_border=true&dark=true)
 
-![What Github stats](https://github-readme-stats.vercel.app/api?username=vermavinay982&show_icons=true&hide_border=true)
