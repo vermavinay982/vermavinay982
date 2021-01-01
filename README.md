@@ -1,4 +1,6 @@
-## Hey there! 👋 <img align="right" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="200" />
+## Hey there! 👋 
+
+<img align="left" src="https://media.giphy.com/media/VzvwdRvla47jyjwLZR/giphy.gif" width="200" height="200" />
 
 - 🔭 I’m currently working on LSTM
 - 🌱 I’m currently learning DL with Pytorch 
@@ -7,15 +9,15 @@
 - 💬 Ask me about Tracker, Facial Recognition
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/vinayverma982/) | [Gmail](mailto:vermavinay982@gmail.com)
 - 😄 Pronouns: Apple FanBoy, Geek, Guitar Enthusiast
-- ⚡ Fun fact: I am learning React!
+- ⚡ Fun fact: I am learning React! (part time 😄)
 
 # Also
 
 - :panda_face: I am Vinay, ECE graduate.
 - :octocat:Working in Deep learning and Computer Vision, believes in Python based Robotics
 
-<p align="center">
-  <img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="300" />
+<p >
+  <img align="right" src="https://media.giphy.com/media/AiPPsVtxUnwti/giphy.gif" width="300" />
 </p>
 
 - :zap: Computer Vision Engineer at Wobot.ai
