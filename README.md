@@ -24,3 +24,5 @@
 - :electric_plug: Engaged in improving Assistive Technology for the needy
 - :robot: Hit me up collaborate on projects based on Computer Vision (Python)
 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vermavinay982&show_icons=true&theme=radical)
