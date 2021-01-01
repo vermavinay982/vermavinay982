@@ -9,17 +9,17 @@
 - 😄 Pronouns: Apple FanBoy, Geek, Guitar Enthusiast
 - ⚡ Fun fact: I am learning React!
 
+# Also
+
 - :panda_face: I am Vinay, ECE graduate.
 - :octocat:Working in Deep learning and Computer Vision, believes in Python based Robotics
-- :car:Trying to extend my domain towards crafting mapping algorithms and increasing Autonomy in Robots :robot:! 
 
 <p align="center">
   <img align="right" src="https://media.giphy.com/media/wRYbY8OPGkHxS/giphy.gif" width="300" />
 </p>
 
-- :zap: Computer Vision Engineer at Startup
-- 🔭 Researching on Robotics and Self Driving Systems
+- :zap: Computer Vision Engineer at Wobot.ai
 - :electric_plug: Engaged in improving Assistive Technology for the needy
-- :robot: Hit me up collaborate on projects based on ROS (Robotics OS)
+- :robot: Hit me up collaborate on projects based on Computer Vision (Python)
 
 ![What Github stats](https://github-readme-stats.vercel.app/api?username=vermavinay982&show_icons=true&hide_border=true)
