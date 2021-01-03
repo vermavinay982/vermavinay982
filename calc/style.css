@@ -1,0 +1,43 @@
+#calc{
+    width: fit-content;
+    background-color:rgb(216, 194, 241);
+    margin: 20vh auto;
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+    box-shadow: indigo;
+}
+
+#heading{
+    width: 100%;
+    text-align: center;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#disp{
+    width: 98%;
+    height: 60px;
+    margin: auto;
+}
+
+.btn{
+    background-color:rgb(29, 26, 14);
+    color: white;
+    width: 65px;
+    height: 40px;
+    margin: 1px;
+    border: none;
+    border-radius: 10%;
+}
+
+.opr{
+    background-color: indianred;
+    color:white;
+}
+
+#zero{
+    width: 135px;
+}
+
