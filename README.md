@@ -12,4 +12,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/vermavinay982/count.svg)
 
 The output of the filter visualizer - working on it to provide a real time weights visualzation system.😋 
-<img width=300 src=https://github.com/vermavinay982/Weights-Visualizer-for-CNN/blob/main/feature_map_0_bird.jpg>
+<img width=300 src=https://github.com/vermavinay982/Weights-Visualizer-for-CNN/blob/main/loop_bird.gif>
