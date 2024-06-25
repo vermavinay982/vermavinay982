@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay K. Verma</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vermavinay982" alt="vermavinay982" /></a> </p>
-
 - 🔭 I’m currently working on **Image Segmentation & LLMs**
 
 - 📝 I regularly write articles on [https://medium.com/@vermavinay982](https://medium.com/@vermavinay982)
